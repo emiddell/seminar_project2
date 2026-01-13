@@ -32,7 +32,7 @@ Adapted from [The Good  Research Code Handbook](https://goodresearch.dev/setup#c
 conda env create --name ENVNAME --file environment.yml
 ```
 
-Test 123 456 789
+Test 123 456 789 10 11 12
 ## install package 
 ```
 pip install -e .
